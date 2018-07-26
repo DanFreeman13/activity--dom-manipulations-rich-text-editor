@@ -26,7 +26,7 @@ var btnbold = document.querySelector('.rte-bold');
 
  btnbold.addEventListener('click', function(event){
    // var defStyle = window.getComputedStyle(text2Format)
-   text2Format.style.fontWeight = "bold"
+   text2Format.style.fontWeight = "700"
  });
 
 /**
